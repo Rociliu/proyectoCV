@@ -1,0 +1,38 @@
+html {
+  box-sizing: border-box;
+  background: linear-gradient(to bottom, #dc9bf4, #ce72ef, #ce69f3, #b751dc, #af48e3, #9548e3, #875ece, #6930c3, #7400b8 );
+  
+  min-height: 100%;
+  font-size: 62.5%;
+}
+
+
+.ContainerAbout {
+  align-items: center;
+  background-color: whitesmoke;
+  border-radius: 10px 10px;
+  color: black;
+  display: block;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 1.5rem;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 20px;
+  opacity: 70%;
+  padding:20px 20px 20px 20px;
+  text-align: center;
+  max-width: 75rem;
+  min-width: 20rem;
+}
+
+.TitleAbout {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 12px;
+  color:#7400b8;
+  display: block;
+  position: relative;
+  text-align: center;
+  margin-top: 20px;
+
+}
+

@@ -1,0 +1,46 @@
+html {
+    box-sizing: border-box;
+    background: linear-gradient(to bottom, #dc9bf4, #ce72ef, #ce69f3, #b751dc, #af48e3, #9548e3, #875ece, #6930c3, #7400b8 );
+    min-height: 100%;
+    font-size: 62.5%;
+}
+
+.ContainerExperience {
+    align-items: center;
+    background-color: whitesmoke;
+    border-radius: 10px 10px;
+    box-sizing: content-box;
+    color: black;
+    display: block;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.5rem;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    opacity: 70%;
+    padding:20px 20px 20px 20px;
+    text-align: center;
+    max-width: 75rem;
+    min-width: 20rem;
+}
+
+.TitleExperience {
+    display: block;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 12px;
+    position: relative;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.Name {
+    font-weight: bold;
+    text-decoration: underline 0.2rem #1676ad;
+}
+.Where {
+    font-weight:bolder;
+}
+.Description {
+    color: rgb(48, 45, 45);
+}
+
